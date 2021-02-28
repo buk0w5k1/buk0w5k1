@@ -1,5 +1,5 @@
 <div align=center>
-    <img width="460" height="300" src="https://data.whicdn.com/images/259569002/original.gif">
+    <img src="https://data.whicdn.com/images/259569002/original.gif">
 </div>
 
 <h1 align=center>> yo, i'm buk0w5k1</h1>
