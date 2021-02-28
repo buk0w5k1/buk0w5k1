@@ -3,3 +3,5 @@
 </div>
 
 <h1 align=center>> yo, i'm buk0w5k1</h1>
+<p align="center">:triangular_flag_on_post: cyber security, :computer: programming, :chart_with_upwards_trend: crypto, :black_nib: vim ent
+~                              │      husiast<br/>[ Based in US ]</p>
